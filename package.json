@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "day1": "ts-node src/day1.ts"
+    "day1-1": "ts-node src/day1-1.ts",
+    "day1-2": "ts-node src/day1-2.ts"
   },
   "repository": {
     "type": "git",
@@ -12,7 +13,8 @@
   "author": "jgretz@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "rxjs": "^7.8.1"
   },
   "devDependencies": {
     "@types/node": "^20.10.3",
@@ -22,8 +24,8 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.0.1",
     "prettier": "^3.1.0",
-    "tsc": "^2.0.4",
     "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.3.2"
   }
