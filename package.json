@@ -4,7 +4,9 @@
   "description": "",
   "scripts": {
     "day1-1": "ts-node src/day1-1.ts",
-    "day1-2": "ts-node src/day1-2.ts"
+    "day1-2": "ts-node src/day1-2.ts",
+    "day2-1": "ts-node src/day2-1.ts",
+    "day2-2": "ts-node src/day2-2.ts"
   },
   "repository": {
     "type": "git",
