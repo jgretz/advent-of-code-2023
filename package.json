@@ -8,7 +8,9 @@
     "day2-1": "ts-node src/day2-1.ts",
     "day2-2": "ts-node src/day2-2.ts",
     "day3-1": "ts-node src/day3-1.ts",
-    "day3-2": "ts-node src/day3-2.ts"
+    "day3-2": "ts-node src/day3-2.ts",
+    "day4-1": "ts-node src/day4-1.ts",
+    "day4-2": "ts-node src/day4-2.ts"
   },
   "repository": {
     "type": "git",
